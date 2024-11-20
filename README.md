@@ -1,5 +1,5 @@
 
-# Deploying ASP.NET Core on Azure App Service
+# Building and Deploying ASP.NET Core on Azure App Service
 
 This project demonstrates how to deploy an ASP.NET Core application on **Azure App Service**. Azure App Service is a fully managed platform for building, deploying, and scaling web applications, REST APIs, and mobile backends. This guide walks you through deploying an ASP.NET Core console application to App Service on Linux.
 
